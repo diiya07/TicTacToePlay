@@ -36,35 +36,5 @@ Welcome to **Neon Mind Arena**, a premium competitive brain-game platform built 
 
 ---
 
-## 🛠️ Getting Started
-
-### Prerequisites
-* [Flutter SDK](https://flutter.dev/docs/get-started/install) (`^3.11.0`)
-* Firebase account setup (optional, required for Online Matchmaking)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/diiya07/TicTacToePlay.git
-   cd TicTacToePlay
-   ```
-2. Fetch package dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-### Running the App
-* **Mobile (iOS / Android):**
-  ```bash
-  flutter run
-  ```
-* **Web (Desktop / Chrome):**
-  Using the CanvasKit renderer is recommended to get the best visual performance for custom neon shaders and grid canvas graphics:
-  ```bash
-  flutter run -d chrome --web-renderer canvaskit
-  ```
-
----
-
 ## 🤝 Contribution & License
 Contributions are welcome! Please feel free to open issues or submit pull requests. Licensed under the MIT License.
