@@ -11,4 +11,4 @@ PRODUCT_NAME = tictactoe
 PRODUCT_BUNDLE_IDENTIFIER = com.diiya07.tictactoe
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2026 com.diiya07. All rights reserved.
