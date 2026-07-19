@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '822905858076',
     projectId: 'tictactoe-899b6',
     storageBucket: 'tictactoe-899b6.firebasestorage.app',
-    iosBundleId: 'com.example.tictactoe',
+    iosBundleId: 'com.diiya07.tictactoe',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '822905858076',
     projectId: 'tictactoe-899b6',
     storageBucket: 'tictactoe-899b6.firebasestorage.app',
-    iosBundleId: 'com.example.tictactoe',
+    iosBundleId: 'com.diiya07.tictactoe',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
